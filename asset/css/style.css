@@ -1,0 +1,47 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.navbar{
+height: 75px;
+}
+
+.navbar-brand img{
+
+
+    width: 132px;
+
+    
+
+
+}
+
+.bg-celeste{
+
+    background-color: #17A2B8;
+}
+
+.bg-pink{
+
+    background-color: #E83E8C;
+}
+footer img{
+
+    width: 80px;
+}
+
+h1{
+color: #707070;
+font-weight: bold;
+
+
+}
+
+@media(max-width:450px){
+
+.bg-celeste{
+    display:none;
+}
+}
+
